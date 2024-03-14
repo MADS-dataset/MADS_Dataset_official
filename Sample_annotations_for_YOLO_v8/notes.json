@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Equation"
+    },
+    {
+      "id": 1,
+      "name": "Image"
+    },
+    {
+      "id": 2,
+      "name": "Number"
+    },
+    {
+      "id": 3,
+      "name": "Text"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

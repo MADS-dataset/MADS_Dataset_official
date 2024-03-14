@@ -1,0 +1,4 @@
+Equation
+Image
+Number
+Text
